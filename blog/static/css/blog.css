@@ -44,11 +44,3 @@ h1, h2, h3, h4 {
 .post h2 a, .post h2 a:visited {
     color: #000000;
 }
-
-h1 a, h2 a {
-    color: #cc81c8;
-    font-family: 'Lobster';
-}
-body {
-    padding-left: 15px;
-}

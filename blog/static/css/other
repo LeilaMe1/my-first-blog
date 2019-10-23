@@ -1,0 +1,9 @@
+h1 a {
+    color: #cc81c8;
+    font-family: 'Lobster';
+}
+h2 a {
+    color: #5cc797
+body {
+    padding-left: 15px;
+}
